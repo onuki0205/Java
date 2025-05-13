@@ -1,0 +1,6 @@
+・Rectangle has two fields.
+・Box has three fields.
+・Rectangle has three methods.
+・Box has four methods.
+・Yes.fields with the same meaning in the Rectangle and Box classes are length and height.
+・Yes.the Methods are rLength(),rHeight(),rWidth(),and permeter().

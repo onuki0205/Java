@@ -1,0 +1,5 @@
+・Rectangle has two fields.
+・Box has three fields.
+・Box has three methods.
+・Box has four methods.
+・As Box inherited Rectangle, do not have to make the same fields.

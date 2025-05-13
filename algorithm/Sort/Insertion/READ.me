@@ -1,0 +1,20 @@
+ソート問題
+挿入ソート
+
+入力
+ｎ（整数の数）
+a1,a2,・・・,an（ｎ個の整数）
+
+出力
+a1',a2',・・・,an'（整列済の整数）
+
+擬似コード
+INSERTION-SORT(A)
+    for j = 2 to A.length
+        key = A[j]
+        // A[j]をソート済みの列A[1..j-1]に挿入する
+        i = j-1;
+        while i>=0 かつ A[i]>key
+            A[i+1] = A[i]
+            i = i-1
+        A[i+1] = key

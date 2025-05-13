@@ -1,0 +1,2 @@
+Static methods are associated with the class and not the individual objects.
+So, when any objects do increment() method, count of Animal class is incremented.

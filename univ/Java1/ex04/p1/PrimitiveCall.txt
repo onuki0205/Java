@@ -1,0 +1,4 @@
+The value of k is variable that can be used only main method.
+
+if argument is object, take a head adress. but type of k is integer.
+only value of k is copied to n of myMethod method. so value of k did not change.

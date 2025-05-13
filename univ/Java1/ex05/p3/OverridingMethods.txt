@@ -1,0 +1,3 @@
+・MethodTwo overrides a method in the superclass.
+・MethodFour hides a method in the superclass.
+・Others is compile error.

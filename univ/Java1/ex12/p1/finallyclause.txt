@@ -1,0 +1,9 @@
+1.
+  throw the exception because "count" become 2 when "++count" do. So, exception is caught by catch block and print out "(2) Exception occurred".
+  And , finally block definitely do at the end. so print out "(2) in finally clause".
+
+2.Because finally block do always.
+
+3.
+  when count is 3, break the loop. So print out "Main program ends" at the end in main method.
+

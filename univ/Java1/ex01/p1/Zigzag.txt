@@ -1,0 +1,12 @@
+The difference between "/" and "%" operators :
+	"/" is division and "%" is mod.
+
+The Step button for do the next motion.
+
+The Play button for do the program.
+
+The Pause button for stop the program.
+
+This program swap the value of 100th place and one of 1st place. so, when they are same value, the value of the number variable equal to the value of the zigzag variable. but, If they are defferent value,the value of the number variable not equal to the value of the zigzag variable.
+
+division number by 100.
