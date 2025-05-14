@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+F:\Github\Learning\servlet\learning\JSP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-4265488506.index
-893990685.index
-4006749509.index
-2982705913.index
-3674897176.index
-2673931218.index
-3615354691.index
