@@ -1,2 +1,0 @@
-there is not conpile error because there are not restriction　of Type. however, ArrayList does not have Several value of defferent Types.
-So, when java file running, there is error.

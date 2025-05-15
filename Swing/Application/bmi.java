@@ -1,7 +1,7 @@
 package Swing.Application;
 
-import javax.swing.*;
 import java.awt.*;
+import javax.swing.*;
 
 public class bmi {
     public static void main(String[] args) {

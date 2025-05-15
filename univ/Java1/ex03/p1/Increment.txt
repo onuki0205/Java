@@ -1,3 +1,0 @@
-System.out.println(++i); :	increment 'i' before a order.
-
-System.out.println(i++); :	increment 'i' after a order.
